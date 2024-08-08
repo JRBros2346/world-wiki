@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "JRBros2346",
+  "repo": "world-wiki",
+  "name": "JRBros2346",
+  "email": "jrbros2346@gmail.com",
+}
